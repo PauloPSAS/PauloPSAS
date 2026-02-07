@@ -53,6 +53,6 @@
 
 ## 📚 Atualmente estudando
 - Fundamentos de **Redes de Computadores**
-- **Segurança em aplicações web** (OWASP Top 10)
+- **Segurança em aplicações web**
 - Desenvolvimento back-end com **Python**
 - Boas práticas de **segurança e arquitetura**
