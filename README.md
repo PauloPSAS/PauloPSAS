@@ -56,7 +56,3 @@
 - **Segurança em aplicações web** (OWASP Top 10)
 - Desenvolvimento back-end com **Python**
 - Boas práticas de **segurança e arquitetura**
-
----
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
