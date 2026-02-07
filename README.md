@@ -13,13 +13,6 @@
 <br>
 
 <div>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPSAS&layout=compact&locale=pt-br&bg_color=0d1117&title_color=58A6FF&text_color=E6EDF3&border_color=30363d" 
-    width="380" 
-    align="right" 
-    alt="Linguagens mais usadas"
-  />
-
   <p>
     Sou desenvolvedor <b>back-end</b> e estudante de <b>Análise e Desenvolvimento de Sistemas</b>, 
     com foco em <b>Python</b>, desenvolvimento de APIs e integração com bancos de dados.
